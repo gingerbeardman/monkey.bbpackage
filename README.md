@@ -25,6 +25,10 @@ or, if you're a TextWrangler user:
 
 You may need to restart BBEdit/TextWrangler for the changes to take effect.
 
+## Color Scheme
+As a nice little bonus, I've also converted my preferred theme to a BBEdit Color Scheme:  
+[https://github.com/gingerbeardman/Monokai-BBEdit-Color-Scheme](https://github.com/gingerbeardman/Monokai-BBEdit-Color-Scheme)
+
 ## License
 monkey.bbedit is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).
 
