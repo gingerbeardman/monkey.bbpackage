@@ -26,10 +26,10 @@ or, if you're a TextWrangler user:
 You may need to restart BBEdit/TextWrangler for the changes to take effect.
 
 ## License
-monkey.tmundle is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).
+monkey.bbedit is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).
 
 ## Support
-You can talk about the bundle on the [official monkey forum](http://www.monkeycoder.co.nz/Community/posts.php?topic=69)
+You can talk about the package on the [official monkey forum](http://www.monkeycoder.co.nz/Community/posts.php?topic=1320)
 
 ## Requirements
 - [BBEdit](http://www.barebones.com/products/bbedit/) or [TextWrangler](http://www.barebones.com/products/textwrangler/)
