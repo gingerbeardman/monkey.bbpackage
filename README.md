@@ -9,10 +9,10 @@ Created by Matt Sephton, [http://www.gingerbeardman.com/monkey/](http://www.ging
 * Syntax Colouring
 
 ## To do
-* Build Scripts
-* Help Scripts
-* Clippings
-* ctags
+* Build System Scripts (Build, Update & Run )
+* Help Scripts (Documentation for word)
+* Clippings (code snippets)
+* ctags?
 
 ## Installation
 Copy or move the `MonkeyCodelessLanguageModule.plist` file to the folder at:
