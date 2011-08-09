@@ -1,5 +1,5 @@
-MonkeyCodelessLanguageModule.plist
-==================================
+monkey.bbedit
+=============
 
 This codeless language module lets you to use the Mac OS X editor [BBEdit](http://www.barebones.com/products/bbedit/) or [TextWrangler](http://www.barebones.com/products/textwrangler/) as an IDE for the [monkey programming language](http://www.monkeycoder.co.nz).
 
