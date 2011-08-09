@@ -1,33 +1,37 @@
 monkey.bbedit
 =============
 
-This codeless language module lets you to use the Mac OS X editor [BBEdit](http://www.barebones.com/products/bbedit/) or [TextWrangler](http://www.barebones.com/products/textwrangler/) as an IDE for the [monkey programming language](http://www.monkeycoder.co.nz).
+This package lets you to use the Mac OS X editor [BBEdit](http://www.barebones.com/products/bbedit/) as an IDE for the [monkey programming language](http://www.monkeycoder.co.nz).
 
 Created by Matt Sephton, [http://www.gingerbeardman.com/monkey/](http://www.gingerbeardman.com/monkey/)
 
 ## Features
-* Syntax Colouring
+* Syntax Colouring (Keywords, Constants, Strings, Comments)
+* Function/Class/Method scanning and indexing
+* Find in Reference
 
 ## To do
-* Build System Scripts (Build, Update & Run )
-* Help Scripts (Documentation for word)
+* Build System Scripts (Build, Update & Run)
 * Clippings (code snippets)
 * ctags?
 
 ## Installation
-Copy or move the `MonkeyCodelessLanguageModule.plist` file to the folder at:
+Copy or move the `Monkey.bbpackage` file to the folder at:
 
-	~/Library/Application Support/BBEdit/Language Modules/
+	~/Library/Application Support/BBEdit/Packages/
 
-or, if you're a TextWrangler user:
+If the folder does not exist, you will need to create it.
 
-	~/Library/Application Support/TextWrangler/Language Modules/
-
-You may need to restart BBEdit/TextWrangler for the changes to take effect.
+You may need to restart BBEdit for the changes to take effect.
 
 ## Color Scheme
 As a nice little bonus, I've also converted my preferred theme to a BBEdit Color Scheme:  
 [https://github.com/gingerbeardman/Monokai-BBEdit-Color-Scheme](https://github.com/gingerbeardman/Monokai-BBEdit-Color-Scheme)
+
+## TextWrangler
+If you don't own BBEdit but fancy trying some of the functions of this package, give TextWrangler a whirl.
+
+[https://github.com/gingerbeardman/monkey.textwrangler](https://github.com/gingerbeardman/monkey.textwrangler)
 
 ## License
 monkey.bbedit is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).
@@ -36,5 +40,5 @@ monkey.bbedit is made available under a [Creative Commons Attribution-Share Alik
 You can talk about the package on the [official monkey forum](http://www.monkeycoder.co.nz/Community/posts.php?topic=1320)
 
 ## Requirements
-- [BBEdit](http://www.barebones.com/products/bbedit/) or [TextWrangler](http://www.barebones.com/products/textwrangler/)
+- BBEdit [http://www.barebones.com/products/bbedit/](http://www.barebones.com/products/bbedit/)
 - monkey [http://www.monkeycoder.co.nz](http://www.monkeycoder.co.nz)
