@@ -14,7 +14,7 @@ Easily see the difference between keywords, constants, strings and comments
 Navigate around your source using the index of functions, classes and methods
 
 **Auto Completion of Keywords**  
-Pause whilst typing keywords to see a list of matches for you to choose from
+Pause whilst typing a keyword to see a list of matches for you to choose from
 
 **Context Sensitive Help**  
 View the monkey module docs in your web browser by using the context menu "Find in Reference" on any keyword
