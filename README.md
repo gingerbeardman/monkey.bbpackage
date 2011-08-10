@@ -19,7 +19,7 @@ Pause whilst typing a keyword to see a list of matches for you to choose from
 **Context Sensitive Help**  
 View the monkey module docs in your web browser by using the context menu "Find in Reference" on any keyword
 
-Configurable Shortcut Keys
+**Configurable Shortcut Keys**  
 ...and more!
 
 ## To do
