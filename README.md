@@ -6,9 +6,21 @@ This package lets you to use the Mac OS X editor [BBEdit](http://www.barebones.c
 Created by Matt Sephton, [http://www.gingerbeardman.com/monkey/](http://www.gingerbeardman.com/monkey/)
 
 ## Features
-* Syntax Colouring (Keywords, Constants, Strings, Comments)
-* Function/Class/Method scanning and indexing
-* Find in Reference
+
+**Syntax Colouring**  
+Easily see the difference between keywords, constants, strings and comments
+
+**Easy Source Navigation**  
+Navigate around your source using the index of functions, classes and methods
+
+**Auto Completion of Keywords**  
+Pause whilst typing keywords to see a list of matches for you to choose from
+
+**Context Sensitive Help**  
+View the monkey module docs in your web browser by using the context menu "Find in Reference" on any keyword
+
+Configurable Shortcut Keys
+...and more!
 
 ## To do
 * Build System Scripts (Build, Update & Run)
