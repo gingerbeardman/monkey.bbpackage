@@ -19,6 +19,9 @@ Pause whilst typing a keyword to see a list of matches for you to choose from
 **Context Sensitive Help**  
 View the monkey module docs in your web browser by using the context menu "Find in Reference" on any keyword
 
+**Build/Run scripts**  
+Quick and easy full build, or a quicker update and run using scripts
+
 **Configurable Shortcut Keys**  
 ...and more!
 
