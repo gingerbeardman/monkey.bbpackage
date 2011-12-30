@@ -31,13 +31,13 @@ Quick and easy full build, or a quicker update and run using scripts
 * ctags?
 
 ## Installation
-Copy or move the `Monkey.bbpackage` file to the folder at:
 
-	~/Library/Application Support/BBEdit/Packages/
+    $ cd Library/Application\ Support/BBEdit/
+    $ mkdir Packages # if it doesn't already exists
+    $ cd Packages
+    $ git clone https://github.com/bbedit/monkey.bbpackage.git
 
-If the folder does not exist, you will need to create it.
-
-You may need to restart BBEdit for the changes to take effect.
+And restart BBEdit.
 
 ## Color Scheme
 As a nice little bonus, I've also converted my preferred theme to a BBEdit Color Scheme:  
