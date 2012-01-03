@@ -1,5 +1,5 @@
-monkey.bbedit
-=============
+monkey.bbpackage
+================
 
 This package lets you to use the Mac OS X editor [BBEdit](http://www.barebones.com/products/bbedit/) as an IDE for the [monkey programming language](http://www.monkeycoder.co.nz).
 
@@ -49,7 +49,7 @@ If you don't own BBEdit but fancy trying some of the functions of this package, 
 [https://github.com/gingerbeardman/monkey.textwrangler](https://github.com/gingerbeardman/monkey.textwrangler)
 
 ## License
-monkey.bbedit is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).
+monkey.bbpackage is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).
 
 ## Support
 You can talk about the package on the [official monkey forum](http://www.monkeycoder.co.nz/Community/posts.php?topic=1320)
